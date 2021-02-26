@@ -7,7 +7,7 @@
 }
 
 .flex-container>div {
-    background-image: url(https://img.freepik.com/free-photo/texture-old-light-beige-paper-background-dense-sand-cardboard_113767-1369.jpg?size=664&ext=jpg);
+    background-image: url(../img/paper\ texture.jpg);
     border:7px solid rgb(249, 205, 156);
     padding-left: 2px;
     margin-left: 4px;
@@ -21,7 +21,7 @@ body {
     font-size: 14px;
     color: #000064;
     padding: 17vh 30vh;
-    background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/0/96/SsoUqR.jpg);
+    background-image: url(../img/Cortana.jpg);
     background-size: cover;
     
 
